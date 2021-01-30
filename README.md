@@ -1,2 +1,2 @@
-# jlf
-JLF v1 - Jago Lomba Open Competition Framework
+# JLF v1
+Jago Lomba Framework (JLF) - Jago Lomba Open Competition Framework
